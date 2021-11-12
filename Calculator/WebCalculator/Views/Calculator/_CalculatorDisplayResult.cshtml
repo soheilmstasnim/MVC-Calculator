@@ -1,0 +1,7 @@
+﻿@model ResponseModel<string>
+@if (Model.IsSucceed) {
+    <input type="text" id="display" class="calculator-screen z-depth-1" value="@Model.Value" disabled />
+}
+else {
+    <input type="text" id="display" style="color:red" class="calculator-screen z-depth-1" value="@Model.ResponseMessage" disabled />
+}

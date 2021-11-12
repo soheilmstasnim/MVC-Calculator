@@ -1,0 +1,10 @@
+D:\Tests\Calculator\Calculator\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+D:\Tests\Calculator\Calculator\Services\bin\Debug\netcoreapp3.1\Services.dll
+D:\Tests\Calculator\Calculator\Services\bin\Debug\netcoreapp3.1\Services.pdb
+D:\Tests\Calculator\Calculator\Services\obj\Debug\netcoreapp3.1\Services.csproj.AssemblyReference.cache
+D:\Tests\Calculator\Calculator\Services\obj\Debug\netcoreapp3.1\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tests\Calculator\Calculator\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+D:\Tests\Calculator\Calculator\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+D:\Tests\Calculator\Calculator\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+D:\Tests\Calculator\Calculator\Services\obj\Debug\netcoreapp3.1\Services.dll
+D:\Tests\Calculator\Calculator\Services\obj\Debug\netcoreapp3.1\Services.pdb
